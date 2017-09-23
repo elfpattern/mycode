@@ -1,0 +1,6 @@
+﻿  mian.cpp
+c:\users\jingzhao004214\documents\visual studio 2015\projects\meibai1\mian.cpp(25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\jingzhao004214\documents\visual studio 2015\projects\meibai1\mian.cpp(26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\jingzhao004214\documents\visual studio 2015\projects\meibai1\mian.cpp(27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  meibai1.vcxproj -> c:\users\jingzhao004214\documents\visual studio 2015\Projects\meibai1\Debug\meibai1.exe
+  meibai1.vcxproj -> c:\users\jingzhao004214\documents\visual studio 2015\Projects\meibai1\Debug\meibai1.pdb (Full PDB)
