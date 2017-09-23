@@ -1,0 +1,9 @@
+﻿  Liquify.cpp
+c:\users\jingzhao004214\documents\visual studio 2015\projects\imageprocessing\imageprocessing\opencvplat\liquify.cpp(231): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\jingzhao004214\documents\visual studio 2015\projects\imageprocessing\imageprocessing\opencvplat\liquify.cpp(232): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\jingzhao004214\documents\visual studio 2015\projects\imageprocessing\imageprocessing\opencvplat\liquify.cpp(253): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+c:\users\jingzhao004214\documents\visual studio 2015\projects\imageprocessing\imageprocessing\opencvplat\liquify.cpp(254): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+c:\users\jingzhao004214\documents\visual studio 2015\projects\imageprocessing\imageprocessing\opencvplat\liquify.cpp(255): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+c:\users\jingzhao004214\documents\visual studio 2015\projects\imageprocessing\imageprocessing\opencvplat\liquify.cpp(266): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+  OpenCVPlat.vcxproj -> C:\Users\jingzhao004214\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\Debug\OpenCVPlat.exe
+  OpenCVPlat.vcxproj -> C:\Users\jingzhao004214\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\Debug\OpenCVPlat.pdb (Full PDB)
