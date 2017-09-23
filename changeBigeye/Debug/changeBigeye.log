@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\jingzhao004214\documents\visual studio 2015\projects\changebigeye\main.cpp(48): error C3867: “cv::Mat::channels”: 非标准语法；请使用 "&" 来创建指向成员的指针
+c:\users\jingzhao004214\documents\visual studio 2015\projects\changebigeye\main.cpp(48): error C2297: “*”: 非法，右操作数包含“int (__thiscall cv::Mat::* )(void) const”类型
+c:\users\jingzhao004214\documents\visual studio 2015\projects\changebigeye\main.cpp(52): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\jingzhao004214\documents\visual studio 2015\projects\changebigeye\main.cpp(53): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\jingzhao004214\documents\visual studio 2015\projects\changebigeye\main.cpp(74): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+c:\users\jingzhao004214\documents\visual studio 2015\projects\changebigeye\main.cpp(75): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+c:\users\jingzhao004214\documents\visual studio 2015\projects\changebigeye\main.cpp(76): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+c:\users\jingzhao004214\documents\visual studio 2015\projects\changebigeye\main.cpp(87): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据

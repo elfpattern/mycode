@@ -1,0 +1,14 @@
+﻿  main.cpp
+main.cpp(127): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(128): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(149): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+main.cpp(150): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+main.cpp(151): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+main.cpp(162): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+  正在生成代码
+  3 of 75 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  changeBigeye.vcxproj -> C:\Users\jingzhao004214\Documents\Visual Studio 2015\Projects\changeBigeye\Release\changeBigeye.exe
+  changeBigeye.vcxproj -> C:\Users\jingzhao004214\Documents\Visual Studio 2015\Projects\changeBigeye\Release\changeBigeye.pdb (Full PDB)
