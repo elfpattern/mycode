@@ -1,0 +1,9 @@
+﻿  main.cpp
+  gaussian.cpp
+c:\users\jingzhao004214\documents\visual studio 2015\projects\test1\gaussian.cpp(15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\jingzhao004214\documents\visual studio 2015\projects\test1\gaussian.cpp(20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\jingzhao004214\documents\visual studio 2015\projects\test1\gaussian.cpp(63): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+  正在生成代码...
+c:\users\jingzhao004214\documents\visual studio 2015\projects\test1\gaussian.cpp(86): warning C4715: “Gaussian::filter”: 不是所有的控件路径都返回值
+  test1.vcxproj -> C:\Users\jingzhao004214\Documents\Visual Studio 2015\Projects\test1\Debug\test1.exe
+  test1.vcxproj -> C:\Users\jingzhao004214\Documents\Visual Studio 2015\Projects\test1\Debug\test1.pdb (Full PDB)
