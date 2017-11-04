@@ -1,0 +1,22 @@
+﻿  main.cpp
+main.cpp(20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+main.cpp(21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+main.cpp(22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+main.cpp(25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+main.cpp(26): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+main.cpp(28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+main.cpp(29): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  Warp.cpp
+Warp.cpp(46): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+Warp.cpp(47): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+Warp.cpp(68): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+Warp.cpp(69): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+Warp.cpp(70): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+Warp.cpp(81): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+  正在生成代码
+  7 of 81 functions ( 8.6%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  test_slimface.vcxproj -> C:\Users\jingzhao004214\Documents\Visual Studio 2015\Projects\test_slimface_final\x64\Release\test_slimface.exe
+  test_slimface.vcxproj -> C:\Users\jingzhao004214\Documents\Visual Studio 2015\Projects\test_slimface_final\x64\Release\test_slimface.pdb (Full PDB)
